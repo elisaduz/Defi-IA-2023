@@ -1,145 +1,411 @@
-,hotel_id,price,stock,city,date,language,mobile,avatar_id
-0,556,175,60,copenhagen,30,hungarian,0,6217
-1,664,284,111,copenhagen,30,hungarian,0,6217
-2,96,124,37,copenhagen,30,hungarian,0,6217
-3,865,277,107,copenhagen,30,hungarian,0,6217
-4,58,203,65,copenhagen,30,hungarian,0,6217
-5,655,269,111,copenhagen,30,hungarian,0,6217
-6,309,94,44,copenhagen,30,hungarian,0,6217
-7,153,208,66,copenhagen,30,hungarian,0,6217
-8,194,118,20,copenhagen,30,hungarian,0,6217
-9,744,166,55,copenhagen,30,hungarian,0,6217
-10,267,173,58,copenhagen,30,hungarian,0,6217
-11,616,170,50,copenhagen,30,hungarian,0,6217
-12,202,156,52,copenhagen,30,hungarian,0,6217
-13,981,94,22,copenhagen,30,hungarian,0,6217
-14,249,83,68,copenhagen,30,hungarian,0,6217
-15,518,112,43,copenhagen,30,hungarian,0,6217
-16,812,178,48,copenhagen,30,hungarian,0,6217
-17,435,290,97,copenhagen,30,hungarian,0,6217
-18,434,102,18,copenhagen,30,hungarian,0,6217
-19,546,84,47,copenhagen,30,hungarian,0,6217
-20,547,173,50,copenhagen,30,hungarian,0,6217
-21,402,128,38,copenhagen,30,hungarian,0,6217
-22,698,190,74,copenhagen,30,hungarian,0,6217
-23,978,287,120,copenhagen,30,hungarian,0,6217
-24,849,156,52,copenhagen,30,hungarian,0,6217
-25,727,121,19,copenhagen,30,hungarian,0,6217
-26,930,113,70,copenhagen,30,hungarian,0,6217
-27,348,156,76,copenhagen,30,hungarian,0,6217
-28,514,256,129,copenhagen,30,hungarian,0,6217
-29,405,97,22,copenhagen,30,hungarian,0,6217
-30,716,128,40,copenhagen,30,hungarian,0,6217
-31,391,170,54,copenhagen,30,hungarian,0,6217
-32,831,88,19,copenhagen,30,hungarian,0,6217
-33,425,183,92,copenhagen,30,hungarian,0,6217
-34,691,81,51,copenhagen,30,hungarian,0,6217
-35,830,87,51,copenhagen,30,hungarian,0,6217
-36,243,93,21,copenhagen,30,hungarian,0,6217
-37,834,91,16,copenhagen,30,hungarian,0,6217
-38,60,90,23,copenhagen,30,hungarian,0,6217
-39,100,87,21,copenhagen,30,hungarian,0,6217
-40,872,93,27,copenhagen,30,hungarian,0,6217
-41,6,116,49,copenhagen,30,hungarian,0,6217
-42,726,267,103,copenhagen,30,hungarian,0,6217
-43,688,83,45,copenhagen,30,hungarian,0,6217
-44,349,217,68,copenhagen,30,hungarian,0,6217
-45,829,180,56,copenhagen,30,hungarian,0,6217
-46,91,123,20,copenhagen,30,hungarian,0,6217
-47,523,81,41,copenhagen,30,hungarian,0,6217
-48,487,166,62,copenhagen,30,hungarian,0,6217
-49,720,269,118,copenhagen,30,hungarian,0,6217
-50,695,173,50,copenhagen,30,hungarian,0,6217
-51,938,119,26,copenhagen,30,hungarian,0,6217
-52,922,222,63,copenhagen,30,hungarian,0,6217
-53,908,313,92,copenhagen,30,hungarian,0,6217
-54,894,289,105,copenhagen,30,hungarian,0,6217
-55,122,279,120,copenhagen,30,hungarian,0,6217
-56,559,196,74,copenhagen,30,hungarian,0,6217
-57,280,117,64,copenhagen,30,hungarian,0,6217
-58,23,163,56,copenhagen,30,hungarian,0,6217
-59,32,175,57,copenhagen,30,hungarian,0,6217
-60,1,95,39,copenhagen,30,hungarian,0,6217
-61,506,121,23,copenhagen,30,hungarian,0,6217
-62,669,195,76,copenhagen,30,hungarian,0,6217
-63,951,83,47,copenhagen,30,hungarian,0,6217
-64,350,296,125,copenhagen,30,hungarian,0,6217
-65,562,207,74,copenhagen,30,hungarian,0,6217
-66,433,112,45,copenhagen,30,hungarian,0,6217
-67,124,266,120,copenhagen,30,hungarian,0,6217
-68,335,87,46,copenhagen,30,hungarian,0,6217
-69,519,200,68,copenhagen,30,hungarian,0,6217
-70,508,195,78,copenhagen,30,hungarian,0,6217
-71,539,266,117,copenhagen,30,hungarian,0,6217
-72,463,97,18,copenhagen,30,hungarian,0,6217
-73,869,282,98,copenhagen,30,hungarian,0,6217
-74,332,200,86,copenhagen,30,hungarian,0,6217
-75,481,93,21,copenhagen,30,hungarian,0,6217
-76,596,170,40,copenhagen,30,hungarian,0,6217
-77,638,153,63,copenhagen,30,hungarian,0,6217
-78,818,173,44,copenhagen,30,hungarian,0,6217
-79,973,171,54,copenhagen,30,hungarian,0,6217
-80,844,270,108,copenhagen,30,hungarian,0,6217
-81,90,164,56,copenhagen,30,hungarian,0,6217
-82,757,129,37,copenhagen,30,hungarian,0,6217
-83,707,287,103,copenhagen,30,hungarian,0,6217
-84,50,128,39,copenhagen,30,hungarian,0,6217
-85,772,292,85,copenhagen,30,hungarian,0,6217
-86,422,289,102,copenhagen,30,hungarian,0,6217
-87,367,92,24,copenhagen,30,hungarian,0,6217
-88,855,185,85,copenhagen,30,hungarian,0,6217
-89,365,92,23,copenhagen,30,hungarian,0,6217
-90,771,287,109,copenhagen,30,hungarian,0,6217
-91,690,198,82,copenhagen,30,hungarian,0,6217
-92,445,89,22,copenhagen,30,hungarian,0,6217
-93,319,286,116,copenhagen,30,hungarian,0,6217
-94,358,190,73,copenhagen,30,hungarian,0,6217
-95,995,188,72,copenhagen,30,hungarian,0,6217
-96,541,124,43,copenhagen,30,hungarian,0,6217
-97,761,119,47,copenhagen,30,hungarian,0,6217
-98,622,122,50,copenhagen,30,hungarian,0,6217
-99,531,175,53,copenhagen,30,hungarian,0,6217
-100,770,202,73,copenhagen,30,hungarian,0,6217
-101,142,304,115,copenhagen,30,hungarian,0,6217
-102,959,188,74,copenhagen,30,hungarian,0,6217
-103,497,202,71,copenhagen,30,hungarian,0,6217
-104,900,185,80,copenhagen,30,hungarian,0,6217
-105,318,136,36,copenhagen,30,hungarian,0,6217
-106,766,292,102,copenhagen,30,hungarian,0,6217
-107,532,205,76,copenhagen,30,hungarian,0,6217
-108,401,175,48,copenhagen,30,hungarian,0,6217
-109,893,205,69,copenhagen,30,hungarian,0,6217
-110,443,114,52,copenhagen,30,hungarian,0,6217
-111,99,180,46,copenhagen,30,hungarian,0,6217
-112,624,200,75,copenhagen,30,hungarian,0,6217
-113,113,85,28,copenhagen,30,hungarian,0,6217
-114,793,161,23,copenhagen,30,hungarian,0,6217
-115,431,123,38,copenhagen,30,hungarian,0,6217
-116,952,92,22,copenhagen,30,hungarian,0,6217
-117,990,158,58,copenhagen,30,hungarian,0,6217
-118,528,269,99,copenhagen,30,hungarian,0,6217
-119,572,198,64,copenhagen,30,hungarian,0,6217
-120,876,126,36,copenhagen,30,hungarian,0,6217
-121,36,193,44,copenhagen,30,hungarian,0,6217
-122,611,175,56,copenhagen,30,hungarian,0,6217
-123,958,214,72,copenhagen,30,hungarian,0,6217
-124,407,208,69,copenhagen,30,hungarian,0,6217
-125,898,83,24,copenhagen,30,hungarian,0,6217
-126,983,85,27,copenhagen,30,hungarian,0,6217
-127,300,119,38,copenhagen,30,hungarian,0,6217
-128,385,272,101,copenhagen,30,hungarian,0,6217
-129,711,130,38,copenhagen,30,hungarian,0,6217
-130,329,222,67,copenhagen,30,hungarian,0,6217
-131,289,120,40,copenhagen,30,hungarian,0,6217
-132,826,196,83,copenhagen,30,hungarian,0,6217
-133,43,79,62,copenhagen,30,hungarian,0,6217
-134,78,266,93,copenhagen,30,hungarian,0,6217
-135,961,180,85,copenhagen,30,hungarian,0,6217
-136,110,166,51,copenhagen,30,hungarian,0,6217
-137,92,84,27,copenhagen,30,hungarian,0,6217
-138,291,188,79,copenhagen,30,hungarian,0,6217
-139,989,89,22,copenhagen,30,hungarian,0,6217
-140,251,165,21,copenhagen,30,hungarian,0,6217
-141,805,159,74,copenhagen,30,hungarian,0,6217
-142,53,92,24,copenhagen,30,hungarian,0,6217
-143,994,157,62,copenhagen,30,hungarian,0,6217
+,hotel_id,price,stock,city,date,language,mobile,avatar_id,group,brand,parking,pool,children_policy
+0,556,175,60,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,1,0,0
+1,664,284,111,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,0
+2,96,124,37,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+3,865,277,107,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,1,1,0
+4,58,203,65,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,0,2
+5,655,269,111,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,0,1
+6,309,94,44,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+7,153,208,66,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,2
+8,194,118,20,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+9,744,166,55,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+10,267,173,58,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,1,0,0
+11,616,170,50,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+12,202,156,52,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,1,0,0
+13,981,94,22,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+14,249,83,68,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+15,518,112,43,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+16,812,178,48,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,1,0,0
+17,435,290,97,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+18,434,102,18,copenhagen,30,hungarian,0,6217,Accar Hotels,Ibas,0,0,0
+19,546,84,47,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+20,547,173,50,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+21,402,128,38,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+22,698,190,74,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,0,0
+23,978,287,120,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,1,0,0
+24,849,156,52,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,0,0,0
+25,727,121,19,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+26,930,113,70,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+27,348,156,76,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,0,0,0
+28,514,256,129,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,0,0,0
+29,405,97,22,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,1,0,0
+30,716,128,40,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+31,391,170,54,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,1,0,0
+32,831,88,19,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+33,425,183,92,copenhagen,30,hungarian,0,6217,Morriott International,Morriot,0,0,0
+34,691,81,51,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+35,830,87,51,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+36,243,93,21,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,1,0,0
+37,834,91,16,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+38,60,90,23,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+39,100,87,21,copenhagen,30,hungarian,0,6217,Accar Hotels,Ibas,1,0,0
+40,872,93,27,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+41,6,116,49,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+42,726,267,103,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,1,0,0
+43,688,83,45,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,1
+44,349,217,68,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,1,0
+45,829,180,56,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+46,91,123,20,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+47,523,81,41,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+48,487,166,62,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,0,0,0
+49,720,269,118,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,0,2
+50,695,173,50,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+51,938,119,26,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+52,922,222,63,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,1,0
+53,908,313,92,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+54,894,289,105,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,1,0,2
+55,122,279,120,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,1
+56,559,196,74,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,0,0,2
+57,280,117,64,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+58,23,163,56,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+59,32,175,57,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,0,0,0
+60,1,95,39,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+61,506,121,23,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+62,669,195,76,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+63,951,83,47,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+64,350,296,125,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,1,1,0
+65,562,207,74,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,0,0
+66,433,112,45,copenhagen,30,hungarian,0,6217,Accar Hotels,Navatel,0,0,0
+67,124,266,120,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,0,0
+68,335,87,46,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+69,519,200,68,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+70,508,195,78,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+71,539,266,117,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,1,1,0
+72,463,97,18,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+73,869,282,98,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+74,332,200,86,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,1,1,0
+75,481,93,21,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+76,596,170,40,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+77,638,153,63,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+78,818,173,44,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+79,973,171,54,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+80,844,270,108,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,0,0,0
+81,90,164,56,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+82,757,129,37,copenhagen,30,hungarian,0,6217,Accar Hotels,Navatel,1,0,0
+83,707,287,103,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,0
+84,50,128,39,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+85,772,292,85,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,1,0,0
+86,422,289,102,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,0,1,0
+87,367,92,24,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+88,855,185,85,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+89,365,92,23,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+90,771,287,109,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,1,0,0
+91,690,198,82,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+92,445,89,22,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+93,319,286,116,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,1,0,0
+94,358,190,73,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,0,0,0
+95,995,188,72,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,0,0
+96,541,124,43,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+97,761,119,47,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+98,622,122,50,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+99,531,175,53,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+100,770,202,73,copenhagen,30,hungarian,0,6217,Morriott International,Morriot,1,1,0
+101,142,304,115,copenhagen,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+102,959,188,74,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,1,1,0
+103,497,202,71,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,0,2
+104,900,185,80,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,1,0,0
+105,318,136,36,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+106,766,292,102,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,0
+107,532,205,76,copenhagen,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+108,401,175,48,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+109,893,205,69,copenhagen,30,hungarian,0,6217,Morriott International,Morriot,1,1,0
+110,443,114,52,copenhagen,30,hungarian,0,6217,Accar Hotels,Navatel,0,0,0
+111,99,180,46,copenhagen,30,hungarian,0,6217,Morriott International,CourtYord,0,1,0
+112,624,200,75,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,1,0
+113,113,85,28,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+114,793,161,23,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+115,431,123,38,copenhagen,30,hungarian,0,6217,Accar Hotels,Navatel,1,0,0
+116,952,92,22,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+117,990,158,58,copenhagen,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+118,528,269,99,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,1,0,0
+119,572,198,64,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,1,0,0
+120,876,126,36,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+121,36,193,44,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+122,611,175,56,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Tripletree,1,0,0
+123,958,214,72,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,1,0,0
+124,407,208,69,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,0,1,0
+125,898,83,24,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,1,0,0
+126,983,85,27,copenhagen,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+127,300,119,38,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+128,385,272,101,copenhagen,30,hungarian,0,6217,Accar Hotels,Safitel,0,0,0
+129,711,130,38,copenhagen,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+130,329,222,67,copenhagen,30,hungarian,0,6217,Morriott International,Morriot,1,0,0
+131,289,120,40,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+132,826,196,83,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,1,1,0
+133,43,79,62,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+134,78,266,93,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,0,0
+135,961,180,85,copenhagen,30,hungarian,0,6217,Morriott International,Morriot,0,1,0
+136,110,166,51,copenhagen,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+137,92,84,27,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+138,291,188,79,copenhagen,30,hungarian,0,6217,Accar Hotels,Marcure,0,0,0
+139,989,89,22,copenhagen,30,hungarian,0,6217,Accar Hotels,Ibas,0,0,0
+140,251,165,21,copenhagen,30,hungarian,0,6217,Independant,Independant,0,0,0
+141,805,159,74,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+142,53,92,24,copenhagen,30,hungarian,0,6217,Independant,Independant,1,0,0
+143,994,157,62,copenhagen,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+0,585,75,29,amsterdam,30,hungarian,0,6217,Yin Yang,8 Premium,0,0,0
+1,917,257,118,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+2,410,115,38,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,0,0,0
+3,45,152,54,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+4,510,259,119,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,0,0,0
+5,806,259,102,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,0,1
+6,234,144,52,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+7,627,106,41,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+8,676,69,20,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+9,429,241,110,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,0,0
+10,507,108,36,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+11,82,109,44,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+12,211,149,60,amsterdam,30,hungarian,0,6217,Morriott International,CourtYord,1,0,0
+13,679,152,52,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,1,0,0
+14,475,97,49,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+15,86,107,78,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+16,630,145,66,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+17,103,182,80,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+18,223,149,51,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+19,264,77,21,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+20,442,162,85,amsterdam,30,hungarian,0,6217,Accar Hotels,Marcure,0,0,0
+21,307,104,44,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,1,0,0
+22,778,109,41,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+23,253,247,105,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,2
+24,548,230,126,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,0,1,0
+25,326,237,109,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+26,902,166,94,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+27,375,104,42,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+28,16,159,48,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,1,0,0
+29,777,142,60,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+30,724,256,93,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,1,0,0
+31,809,246,109,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+32,880,112,42,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+33,788,109,50,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+34,603,247,96,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,0,1,0
+35,581,147,29,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+36,807,265,103,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+37,821,104,45,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+38,366,77,44,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+39,387,230,104,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,1,0,0
+40,9,85,54,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+41,311,103,33,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+42,971,147,52,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,1,0,0
+43,158,140,62,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+44,430,159,101,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+45,517,112,53,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+46,594,233,152,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+47,460,84,22,amsterdam,30,hungarian,0,6217,Accar Hotels,Ibas,0,0,0
+48,783,93,20,amsterdam,30,hungarian,0,6217,Yin Yang,8 Premium,1,0,0
+49,172,118,38,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,1,0,0
+50,166,105,56,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+51,482,81,21,amsterdam,30,hungarian,0,6217,Accar Hotels,Ibas,1,0,0
+52,628,152,65,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+53,101,263,102,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,1,0,0
+54,441,183,69,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+55,455,139,56,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+56,111,115,40,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+57,918,257,110,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+58,83,152,48,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+59,743,155,46,amsterdam,30,hungarian,0,6217,Morriott International,CourtYord,1,1,0
+60,52,150,52,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+61,878,100,66,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+62,945,142,72,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+63,373,108,43,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+64,140,107,43,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+65,570,101,45,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+66,835,103,62,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+67,657,162,85,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,1,0,0
+68,529,230,115,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,1,0,1
+69,925,98,44,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+70,85,99,44,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+71,567,79,19,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+72,218,184,74,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,1
+73,212,193,66,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,1,0
+74,269,150,60,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,1,0
+75,417,140,62,amsterdam,30,hungarian,0,6217,Morriott International,CourtYord,0,0,0
+76,588,175,55,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+77,967,74,60,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+78,779,180,81,amsterdam,30,hungarian,0,6217,Morriott International,Morriot,1,0,2
+79,77,246,115,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,0,1,0
+80,587,153,50,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,0,0,0
+81,762,157,50,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,1,1,0
+82,163,176,76,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,1,0
+83,505,102,44,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,1
+84,214,179,72,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,1,0
+85,34,74,23,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+86,745,104,28,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+87,352,100,61,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+88,196,110,19,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+89,685,257,94,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,0,0,1
+90,750,105,19,amsterdam,30,hungarian,0,6217,Independant,Independant,1,1,0
+91,557,113,36,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,0,0,0
+92,658,159,56,amsterdam,30,hungarian,0,6217,Morriott International,CourtYord,1,0,0
+93,465,226,123,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,1,1,0
+94,706,114,38,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,1
+95,146,176,74,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,0,0
+96,933,152,58,amsterdam,30,hungarian,0,6217,Boss Western,J.Halliday Inn,1,0,0
+97,10,153,51,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+98,317,161,76,amsterdam,30,hungarian,0,6217,Accar Hotels,Marcure,0,0,0
+99,867,140,48,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+100,22,163,45,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+101,369,76,21,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+102,969,76,31,amsterdam,30,hungarian,0,6217,Accar Hotels,Ibas,1,0,0
+103,450,172,86,amsterdam,30,hungarian,0,6217,Morriott International,Morriot,0,0,0
+104,157,245,98,amsterdam,30,hungarian,0,6217,Morriott International,Corlton,0,0,0
+105,346,166,76,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,1,0,0
+106,515,248,99,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,1,1,0
+107,892,182,69,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Quadrupletree,0,1,0
+108,256,78,23,amsterdam,30,hungarian,0,6217,Accar Hotels,Ibas,1,0,0
+109,105,157,48,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+110,916,108,44,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+111,674,121,46,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,0,0,0
+112,604,112,40,amsterdam,30,hungarian,0,6217,Accar Hotels,Navatel,1,0,0
+113,12,77,21,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+114,283,97,46,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+115,625,183,69,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,0,0
+116,680,146,24,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+117,891,104,22,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+118,230,105,40,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,1,0,0
+119,493,152,54,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+120,960,259,100,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Chill Garden Inn,0,0,0
+121,88,123,38,amsterdam,30,hungarian,0,6217,Boss Western,Boss Western,0,0,0
+122,193,143,48,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+123,224,144,57,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,1,0,0
+124,303,167,85,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,1,1,0
+125,660,155,48,amsterdam,30,hungarian,0,6217,Chillton Worldwide,Tripletree,0,0,0
+126,117,75,23,amsterdam,30,hungarian,0,6217,Yin Yang,8 Premium,1,0,0
+127,271,82,21,amsterdam,30,hungarian,0,6217,Independant,Independant,1,0,0
+128,715,144,50,amsterdam,30,hungarian,0,6217,Yin Yang,Ardisson,0,0,0
+129,760,163,79,amsterdam,30,hungarian,0,6217,Yin Yang,Royal Lotus,0,0,0
+130,921,79,48,amsterdam,30,hungarian,0,6217,Independant,Independant,0,0,0
+131,591,236,115,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,0,0,0
+132,752,245,107,amsterdam,30,hungarian,0,6217,Accar Hotels,Safitel,0,0,0
+0,969,78,31,amsterdam,30,hungarian,1,6217,Accar Hotels,Ibas,1,0,0
+1,158,142,62,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+2,585,76,29,amsterdam,30,hungarian,1,6217,Yin Yang,8 Premium,0,0,0
+3,34,75,23,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+4,253,250,105,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,0,1,2
+5,627,108,41,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+6,891,106,22,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+7,917,261,118,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,1,1,0
+8,762,159,50,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,1,1,0
+9,196,112,19,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+10,779,182,81,amsterdam,30,hungarian,1,6217,Morriott International,Morriot,1,0,2
+11,269,152,60,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,1,0
+12,224,146,57,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,1,0,0
+13,821,106,45,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+14,724,260,93,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,1,0,0
+15,172,119,38,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,1,0,0
+16,10,155,51,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,0,0,0
+17,715,146,50,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+18,892,184,69,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Quadrupletree,0,1,0
+19,111,116,40,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+20,807,269,103,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+21,529,234,115,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,1,0,1
+22,916,110,44,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+23,366,78,44,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+24,557,114,36,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,0,0,0
+25,760,165,79,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,0,0
+26,311,105,33,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+27,283,99,46,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+28,166,107,56,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,0
+29,777,143,60,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+30,346,169,76,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Quadrupletree,1,0,0
+31,921,80,48,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+32,880,113,42,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,0
+33,743,157,46,amsterdam,30,hungarian,1,6217,Morriott International,CourtYord,1,1,0
+34,604,113,40,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,1,0,0
+35,52,152,52,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,0,0,0
+36,429,244,110,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,0,0
+37,778,111,41,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+38,660,157,48,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,0,0,0
+39,101,267,102,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,1,0,0
+40,591,239,115,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,0,0,0
+41,625,185,69,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,1,0,0
+42,77,249,115,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,0,1,0
+43,630,147,66,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,0,0,0
+44,375,106,42,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+45,517,113,53,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+46,581,149,29,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+47,493,154,54,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,0,0,0
+48,603,250,96,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,0,1,0
+49,809,249,109,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+50,867,142,48,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+51,157,248,98,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,0,0,0
+52,507,110,36,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,0
+53,234,146,52,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,0,0,0
+54,971,149,52,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,1,0,0
+55,878,102,66,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+56,85,101,44,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+57,140,109,43,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,0
+58,570,103,45,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+59,455,141,56,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+60,214,181,72,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Quadrupletree,0,1,0
+61,264,78,21,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+62,567,80,19,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+63,86,109,78,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+64,548,234,126,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,0,1,0
+65,223,151,51,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,0,0,0
+66,745,106,28,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+67,417,142,62,amsterdam,30,hungarian,1,6217,Morriott International,CourtYord,0,0,0
+68,369,77,21,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+69,960,263,100,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,0,0
+70,193,145,48,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+71,679,154,52,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,1,0,0
+72,45,154,54,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+73,685,261,94,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,0,0,1
+74,326,240,109,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+75,441,185,69,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,0,0
+76,835,105,62,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+77,460,85,22,amsterdam,30,hungarian,1,6217,Accar Hotels,Ibas,0,0,0
+78,902,169,94,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,1,1,0
+79,163,178,76,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,1,0
+80,256,80,23,amsterdam,30,hungarian,1,6217,Accar Hotels,Ibas,1,0,0
+81,674,123,46,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,0,0,0
+82,212,196,66,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,1,0
+83,410,116,38,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,0,0,0
+84,628,154,65,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,0,0,0
+85,933,154,58,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,1,0,0
+86,12,78,21,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+87,783,94,20,amsterdam,30,hungarian,1,6217,Yin Yang,8 Premium,1,0,0
+88,352,102,61,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+89,307,106,44,amsterdam,30,hungarian,1,6217,Accar Hotels,Navatel,1,0,0
+90,510,263,119,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,0,0,0
+91,103,184,80,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,1,1,0
+92,788,111,50,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+93,373,110,43,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+94,750,107,19,amsterdam,30,hungarian,1,6217,Independant,Independant,1,1,0
+95,588,178,55,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+96,945,143,72,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,0,0,0
+97,105,159,48,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
+98,387,234,104,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,1,0,0
+99,752,248,107,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,0,0,0
+100,317,163,76,amsterdam,30,hungarian,1,6217,Accar Hotels,Marcure,0,0,0
+101,146,178,74,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Quadrupletree,0,0,0
+102,230,107,40,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+103,658,161,56,amsterdam,30,hungarian,1,6217,Morriott International,CourtYord,1,0,0
+104,918,261,110,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,1,1,0
+105,303,170,85,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,1,1,0
+106,82,111,44,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+107,9,86,54,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+108,676,70,20,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,0
+109,211,151,60,amsterdam,30,hungarian,1,6217,Morriott International,CourtYord,1,0,0
+110,430,161,101,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,0,0
+111,657,164,85,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Quadrupletree,1,0,0
+112,680,148,24,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+113,482,82,21,amsterdam,30,hungarian,1,6217,Accar Hotels,Ibas,1,0,0
+114,442,164,85,amsterdam,30,hungarian,1,6217,Accar Hotels,Marcure,0,0,0
+115,706,115,38,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,1
+116,88,125,38,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,0,0,0
+117,450,175,86,amsterdam,30,hungarian,1,6217,Morriott International,Morriot,0,0,0
+118,505,104,44,amsterdam,30,hungarian,1,6217,Independant,Independant,0,0,1
+119,271,83,21,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+120,806,263,102,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,0,1
+121,967,75,60,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+122,515,251,99,amsterdam,30,hungarian,1,6217,Accar Hotels,Safitel,1,1,0
+123,465,229,123,amsterdam,30,hungarian,1,6217,Morriott International,Corlton,1,1,0
+124,218,186,74,amsterdam,30,hungarian,1,6217,Yin Yang,Royal Lotus,0,0,1
+125,16,161,48,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Tripletree,1,0,0
+126,587,155,50,amsterdam,30,hungarian,1,6217,Boss Western,J.Halliday Inn,0,0,0
+127,925,100,44,amsterdam,30,hungarian,1,6217,Boss Western,Boss Western,1,0,0
+128,475,99,49,amsterdam,30,hungarian,1,6217,Independant,Independant,1,0,0
+129,117,76,23,amsterdam,30,hungarian,1,6217,Yin Yang,8 Premium,1,0,0
+130,22,165,45,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,1,0,0
+131,594,237,152,amsterdam,30,hungarian,1,6217,Chillton Worldwide,Chill Garden Inn,0,1,0
+132,83,154,48,amsterdam,30,hungarian,1,6217,Yin Yang,Ardisson,0,0,0
