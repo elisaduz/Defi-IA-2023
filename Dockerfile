@@ -1,5 +1,6 @@
 # Base image from python
-FROM python:3.8
+# FROM python:3.8
+FROM ubuntu:20.04
 # Set up for your local zone an UTC information
 ENV TZ=Europe/Paris
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
