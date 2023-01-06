@@ -1,25 +1,16 @@
-# Base image from python
-# FROM python:3.8
-FROM ubuntu:20.04
-# Set up for your local zone an UTC information
+FROM ubuntu:latest
 ENV TZ=Europe/Paris
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
-# Additional librairies
-ADD requirements.txt requirements.txt
-ADD model.py model.py
-ADD gradio_file.py gradio_file.py
-ADD Datatrain\TRAIN_requete2_features.csv Datatrain\TRAIN_requete2_features.csv
-ADD regrfOpt_model.pkl regrfOpt_model.pkl
-ADD dict_city_encoding.pkl dict_city_encoding.pkl
-ADD dict_brand_encoding.pkl dict_brand_encoding.pkl
-ADD dict_group_encoding.pkl dict_group_encoding.pkl
-ADD dict_language_encoding.pkl dict_language_encoding.pkl
+RUN apt-get update && apt-get install -y python3-pip
 
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+RUN pip install numpy==1.21.5
+RUN pip install pandas
+RUN pip install scikit-learn==1.0.2
+RUN pip install category-encoders==2.5.1.post0
+RUN pip install gradio==3.12.0
+RUN pip install altair
 
-#CMD ["python3", "model_target.py"]
-CMD ["python3", "gradio_file.py"]
+RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
 
 
