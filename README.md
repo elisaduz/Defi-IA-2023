@@ -34,7 +34,7 @@ Etapes à suivre pour utiliser et lancer les différents codes développés :
 * Aller dans le container : `docker attach container1`
 * Aller dans le dossier 'hotel' : `cd hotel`
 
-Vous pouvez maintenant lancer les différents programme que nous avons développé : 
+Vous pouvez maintenant lancer les différents programmes que nous avons développé : 
 
 * Faire `python app.py` si vous voulez lancer l'application Gradio pour tester notre modèle en choisissant vous même les paramètres de votre utilisateur
 * Faire `python train.py` si vous voulez lancer le code d'entrainement de notre modèle (Random Forest)
