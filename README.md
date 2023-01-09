@@ -11,7 +11,9 @@ Listes des fichiers présents sur ce répertoire :
 * dict_group_encoding.pkl : fichier contenant un dictionnaire des valeurs des groupes d'hôtel après encodage
 * dict_language_encoding.pkl : fichier contenant un dictionnaire des valeurs des langues d'utilisateurs après encodage
 * dict_city_encoding.pkl : fichier contenant un dictionnaire des valeurs des villes où sont les hôtels après encodage
-...
+* features_hotels.csv : fichier contenant des méta-données pour chacun des 999 hôtels
+* test_set.csv : fichier contenant le jeu de données de test
+* submission.csv : fichier de submission
 
 Nous avons obtenu, grâce à nos codes et méthodes, un score de 22.25 sur les données de test présentes sur le site Kaggle.
 
