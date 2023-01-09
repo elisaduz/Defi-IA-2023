@@ -14,6 +14,7 @@ Listes des fichiers présents sur ce répertoire :
 * features_hotels.csv : fichier contenant des méta-données pour chacun des 999 hôtels
 * test_set.csv : fichier contenant le jeu de données de test
 * submission.csv : fichier de submission
+* requetes.ipynb : fichier permettant de faire des requêtes
 
 Nous avons obtenu, grâce à nos codes et méthodes, un score de 22.25 sur les données de test présentes sur le site Kaggle.
 
