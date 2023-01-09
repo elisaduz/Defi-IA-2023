@@ -13,7 +13,7 @@ Listes des fichiers présents sur ce répertoire :
 * dict_city_encoding.pkl : fichier contenant un dictionnaire des valeurs des villes où sont les hôtels après encodage
 ...
 
-Nous avons obtenu, grâce à nos codes et méthodes, un score de 22.24796 sur les données de test présentes sur le site Kaggle.
+Nous avons obtenu, grâce à nos codes et méthodes, un score de 22.25 sur les données de test présentes sur le site Kaggle.
 
 Etapes à suivre pour utiliser et lancer les différents codes développés : 
 
