@@ -1,8 +1,3 @@
-# Defi-IA-2023
-Mettre le lien de download avec .sh
-https://sites.google.com/site/gdocs2direct/
-
-
 Vous pourrez trouver sur ce répertoire l'ensemble de nos résultats dans le cadre du Défi IA 2023 : 1001 Nights ! (https://www.kaggle.com/competitions/defi-ia-2023).
 
 Listes des fichiers présents sur ce répertoire : 
@@ -25,7 +20,7 @@ Etapes à suivre pour utiliser et lancer les différents codes développés :
 * Lancer un terminal  
 * Cloner le github `git clone https://github.com/elisaduz/Defi-IA-2023.git`
 * Aller sur le repertoire : `cd defi ia 2023`
-* Télécharger le modèle : `Mettre modèle`
+* Télécharger le modèle : `https://drive.google.com/uc?export=download&id=1K0drq_wgzg2vjNhk9ja7zlZp43VYAHMG`
 * Faire `docker build -t image1 .`
 * Créé un containeur docker dans le dossier où nous avons cloné le github : `docker run -it –-name container1 image1`
 * Sortir du container : `exit` 
