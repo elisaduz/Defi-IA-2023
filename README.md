@@ -34,5 +34,5 @@ Etapes à suivre pour utiliser et lancer les différents codes développés :
 
 Vous pouvez maintenant lancer les différents programmes que nous avons développé : 
 
-* Faire `python3 app.py` si vous voulez lancer l'application Gradio pour tester notre modèle en choisissant vous même les paramètres de votre utilisateur
+* Faire `python3 app.py` et copier-coller dans un navigateur le lien public qui apparait à la suite de `"Running on public URL"` si vous voulez lancer l'application Gradio pour tester notre modèle en choisissant vous même les paramètres de votre utilisateur
 * Faire `python3 train.py` si vous voulez lancer le code d'entrainement de notre modèle (Random Forest)
