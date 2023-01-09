@@ -23,7 +23,7 @@ Nous avons obtenu, grâce à nos codes et méthodes, un score de ... sur les don
 Etapes à suivre pour utiliser et lancer les différents codes développés : 
 
 * Lancer un terminal  
-* Cloner le github `git clone ...`
+* Cloner le github `git clone https://github.com/elisaduz/Defi-IA-2023.git`
 * Aller sur le repertoire : `cd defi ia 2023`
 * Télécharger le modèle : `Mettre modèle`
 * Faire `docker build -t image1 .`
@@ -38,6 +38,3 @@ Vous pouvez maintenant lancer les différents programme que nous avons développ
 
 * Faire `python app.py` si vous voulez lancer l'application Gradio pour tester notre modèle en choisissant vous même les paramètres de votre utilisateur
 * Faire `python train.py` si vous voulez lancer le code d'entrainement de notre modèle (Random Forest)
-
-
-
