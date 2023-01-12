@@ -16,7 +16,7 @@ Listes des fichiers présents sur ce répertoire :
 * submission.csv : fichier de submission
 * requetes.ipynb : fichier permettant de faire des requêtes
 
-Nous avons obtenu, grâce à nos codes et méthodes, un score de 22.25 sur les données de test présentes sur le site Kaggle.
+Nous avons obtenu, grâce à nos codes et méthodes, un score de 24.34304 sur les données de test présentes sur le site Kaggle (groupe EMA).
 
 Etapes à suivre pour utiliser et lancer les différents codes développés : 
 
